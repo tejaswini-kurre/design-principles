@@ -1,0 +1,5 @@
+Liskov Substituion Principle:
+    This principle states that subclasses should be substitutable for their parent classes.
+
+Example:
+

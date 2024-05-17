@@ -1,0 +1,6 @@
+Interface Seggreration Principle:
+    A class shouldn't be forcefully override methods of an interface, 
+    if the class doesn't need them. Instead we can create/seggregate these methods 
+    into different interfaces.
+
+Example:

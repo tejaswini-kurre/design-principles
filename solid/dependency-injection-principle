@@ -1,0 +1,4 @@
+dependency injection principle:
+    A class should depend on abstractions not on concretions.
+
+Example: 
